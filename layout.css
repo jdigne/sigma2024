@@ -488,7 +488,6 @@ border-style: solid;
    }
 
 .itemfrifree{
- background-color: orange;
  grid-row-start: 6;
  grid-row-end: 11;
  grid-column-start: 5;
