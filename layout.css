@@ -444,15 +444,15 @@ border-style: solid;
 .itembreak1 {
   grid-column-start: 2;
   grid-column-end: 4;
-  grid-row-start: 7;
   grid-row-start: 8;
+  grid-row-start: 9;
 }
 
 .itembreak2 {
   grid-column-start: 4;
   grid-column-end: 6;
-  grid-row-start: 7;
   grid-row-start: 8;
+  grid-row-start: 9;
 }
 
 .itemhead {
@@ -462,34 +462,34 @@ border-style: solid;
 .itemAG {
   grid-column-start: 3;
   grid-column-end: 4;
-  grid-row-start: 10;
   grid-row-start: 11;
+  grid-row-start: 12;
 }
 
 .itemposterstue{
- grid-row-start: 6;
- grid-row-end: 8;
+ grid-row-start: 7;
+ grid-row-end: 9;
  grid-column-start: 2;
 	grid-column-end: 3;
 }
 
 .itempostersthu{
- grid-row-start: 6;
- grid-row-end: 8;
+ grid-row-start: 7;
+ grid-row-end: 9;
  grid-column-start: 4;
 	grid-column-end: 5;
 }
 
 .itemwedfree{
-	grid-row-start: 6;
-	grid-row-end: 10;
+	grid-row-start: 7;
+	grid-row-end: 11;
 	grid-column-start: 3;
 	grid-column-end: 4;
    }
 
 .itemfrifree{
- grid-row-start: 6;
- grid-row-end: 11;
+ grid-row-start: 7;
+ grid-row-end: 12;
  grid-column-start: 5;
  grid-column-end: 6;
 }
